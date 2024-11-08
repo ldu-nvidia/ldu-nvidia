@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leo 
-- 👀 I’m interested in GenAI, LLM, Computer Vision, HPC
-- 🌱 I’m currently learning agentic AI system
-- 💞️ I’m looking to collaborate on VLM, agentic flow
+- 👀 I’m interested in GenAI, LLM, Computer Vision, HPC, Robotics
+- 🌱 I’m currently learning agentic LLM system
+- 💞️ I’m looking to collaborate on VLM, agentic flow, computer vision
 
 <!---
 ldu-nvidia/ldu-nvidia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
