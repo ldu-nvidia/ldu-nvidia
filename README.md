@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo 
-- 👀 I’m interested in GenAI, LLM, Computer Vision, HPC, Robotics
-- 🌱 I’m currently learning agentic LLM system
+- 👀 I’m interested in GenAI, LLM, Computer Vision, HPC, CAE and Robotics
+- 🌱 I’m currently learning agentic LLM system/CAE
 - 💞️ I’m looking to collaborate on VLM, agentic flow, computer vision
 
 <!---
