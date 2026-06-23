@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo 
-- 👀 I’m interested in GenAI, LLMs, Agents, post training, inference and accelerated computing
+- 👀 I’m interested in Physical AI, Computer Vision, Agent for Engineering 
 - 💞️ I’m looking to collaborate, exchange, learn and teach
 
 <!---
